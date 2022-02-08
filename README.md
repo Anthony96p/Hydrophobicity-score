@@ -1,6 +1,6 @@
 #Hydrophobicity score
 
-Ce programme permet de calculer le caractère d'hydrophobicité d'un peptide lu via un menu\nà l'aide de l'échelle d'hydrophobicité simplifiée suivante :
+Ce programme permet de calculer le caractère d'hydrophobicité d'un peptide lu via un menu à l'aide de l'échelle d'hydrophobicité simplifiée suivante :
 
 1.0 : Asp(D), Glu(E), Lys(K), Arg(R)
 
